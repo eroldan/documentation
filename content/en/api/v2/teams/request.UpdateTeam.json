@@ -2,7 +2,11 @@
   "data": {
     "attributes": {
       "handle": "example-team",
-      "name": "Example Team updated"
+      "name": "Example Team updated",
+      "avatar": "\ud83e\udd51",
+      "banner": null,
+      "hidden_modules": [],
+      "visible_modules": []
     },
     "type": "team"
   }
